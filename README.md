@@ -1,4 +1,4 @@
-# To-Do List with Add & Delete Button
+# To-Do List 
 
 This is a simple To-Do List web application that allows users to add and delete tasks. The application is built using HTML, CSS, and JavaScript.
 
